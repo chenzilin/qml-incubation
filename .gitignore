@@ -1,0 +1,7 @@
+bin/
+build/
+*~
+*.o
+*.usr
+*.usr.*
+Makefile
